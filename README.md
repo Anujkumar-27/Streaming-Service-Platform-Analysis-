@@ -1,7 +1,7 @@
-•Data Collection & Cleaning: Preparing movie data for analysis.
-•Exploratory Data Analysis (EDA): Identifying trends, patterns, and insights.
-•Visualization: Creating stunning charts and graphs to present findings.
-•Machine Learning (if applicable): Predictive modeling for personalized recommendations.
+•Data Collection & Cleaning: Preparing movie data for analysis.<br>
+•Exploratory Data Analysis (EDA): Identifying trends, patterns, and insights.<br>
+•Visualization: Creating stunning charts and graphs to present findings.<br>
+•Machine Learning (if applicable): Predictive modeling for personalized recommendations.<br>
 
 <h3>Insights & Conclusion<h3>
 
